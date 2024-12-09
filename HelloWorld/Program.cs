@@ -21,4 +21,3 @@ Console.WriteLine($"Que legal, {nomePessoaNova} ! Sua comida favorita é: {comid
 //int
 //bool
 //float
-
