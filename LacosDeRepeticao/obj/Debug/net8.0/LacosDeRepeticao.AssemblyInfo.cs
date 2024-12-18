@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LacosDeRepeticao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+018d40c27e071019be09b70622baa530f9dec860")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36765c49a8ea40d7b3c4b559913925be331d204")]
 [assembly: System.Reflection.AssemblyProductAttribute("LacosDeRepeticao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LacosDeRepeticao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

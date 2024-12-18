@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj": {}
+    "C:\\Users\\admin\\Desktop\\2024\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj": {
+    "C:\\Users\\admin\\Desktop\\2024\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\2024\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj",
         "projectName": "LacosDeRepeticao",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\2024\\Introdução ao C# Tarde\\LacosDeRepeticao\\LacosDeRepeticao.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Introdução ao C# Tarde\\LacosDeRepeticao\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\2024\\Introdução ao C# Tarde\\LacosDeRepeticao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
